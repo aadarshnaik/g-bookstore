@@ -1,1 +1,1 @@
-# g-bookstore
+# go-bookstore
